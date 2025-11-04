@@ -1,0 +1,42 @@
+.homebg {
+    background-image: url('../images/taylor_showing_arm_muscles.webp');
+    background-position: top left;
+    color: rgb(255, 255, 255);
+    background-size: cover;
+   
+}
+
+ a {
+    color: rgb(240, 175, 215);
+    text-decoration: none ;     /* changed the link colors to be pink */
+
+ }
+ a:hover {
+    text-decoration: underline;
+ }
+
+ .words {
+   font-family: 'Montserrat', sans-serif;  /* Clean body text */
+   font-size: medium;
+    line-height: 1.6;
+    text-align: center;
+}
+
+.listy {
+   font-style: italic;
+   font-size: medium;
+   line-height: 1.6;
+
+}
+
+.video {
+  font-family: 'Great Vibes', cursive;
+}
+
+.footer {
+   text-align: center;
+   position: relative;
+  font-size: 8px;
+  color: rgb(249, 40, 217);
+
+}
